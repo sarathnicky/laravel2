@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/zintzotek1/public_html/prueba4/
+    - /bin/cp * $DEPLOYPATH
+    
