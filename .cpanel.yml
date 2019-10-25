@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/zintzotek1/git_path/
+    - export DEPLOYPATH=/home/zintzotek1/public_html/laravel2
     - /bin/cp * $DEPLOYPATH
     
